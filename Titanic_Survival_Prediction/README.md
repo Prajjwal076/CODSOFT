@@ -1,4 +1,5 @@
 🌊 Titanic Survival Prediction using Logistic Regression
+
 This project is part of my virtual internship at **CODSOFT**.
 The goal is to predict the survival of Titanic passengers using Logistic Regression based on their characteristics such as age, gender, ticket class, and fare.
 
