@@ -1,4 +1,5 @@
 📈 Sales Prediction using Simple Linear Regression
+
 This project is part of my virtual internship at **CODSOFT**.
 The goal is to predict product sales based on advertising spend using Simple Linear Regression.
 
